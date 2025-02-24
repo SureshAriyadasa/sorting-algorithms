@@ -236,6 +236,8 @@ After sort: 3 6 7 12 20 34 45
 Selection Sort is an **in-place sorting algorithm**, meaning it does not require additional memory proportional to the input size.  
 **Space Complexity**: \( O(1) \).
 
+---
+
 # 3. Merge Sort Algorithm
 
 Merge Sort is a **divide-and-conquer** sorting algorithm that recursively divides an array into two halves, sorts them, and then merges the sorted halves back together.
