@@ -102,11 +102,11 @@ Input Array: [34, 12, 45, 3, 6, 7, 20]
 6. **Sixth Pass**:
    - Compare 3 and 6 → No swap
 
+
 ## Final Sorted Array:
 ```
 After sort: 3 6 7 12 20 34 45
-```# sorting-algorithms
-
+```
 
 ## Time Complexity
 
