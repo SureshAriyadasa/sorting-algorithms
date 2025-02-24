@@ -1,4 +1,4 @@
-# Bubble Sort Algorithm
+# 1. Bubble Sort Algorithm
 
 Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 
@@ -130,7 +130,7 @@ Bubble Sort is an **in-place sorting algorithm**, meaning it does not require ad
 
 ---
 
-# Selection Sort Algorithm
+# 2. Selection Sort Algorithm
 
 Selection Sort is a simple sorting algorithm that divides the input list into two parts: a sorted and an unsorted section. It repeatedly selects the smallest element from the unsorted section and swaps it with the first unsorted element.
 
