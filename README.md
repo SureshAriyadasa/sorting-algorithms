@@ -354,3 +354,4 @@ After sort: [1, 2, 3, 8, 12, 26, 50, 90]
 Merge Sort is **not an in-place sorting algorithm**, meaning it requires additional memory for temporary arrays.
 **Space Complexity**: \( O(n) \).
 
+---
