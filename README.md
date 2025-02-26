@@ -12,9 +12,6 @@ Given an input array:
 
 Bubble Sort works by repeatedly swapping adjacent elements if they are out of order, moving the largest unsorted element to its correct position at the end.
 
-## Animated Sorting Process
-
-
 
 ## Java Implementation
 
@@ -144,9 +141,6 @@ Given an input array:
 
 Selection Sort works by finding the minimum element from the unsorted section and swapping it with the first unsorted element.
 
-## Animated Sorting Process
-
-(Include an animation or step-by-step diagram if needed)
 
 ## Java Implementation
 
